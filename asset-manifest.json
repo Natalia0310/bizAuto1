@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/bizAuto/static/css/main.a9955258.css",
+    "main.js": "/bizAuto/static/js/main.6bdf338e.js",
+    "static/js/166.b979f8b9.chunk.js": "/bizAuto/static/js/166.b979f8b9.chunk.js",
+    "static/js/730.f34dfd60.chunk.js": "/bizAuto/static/js/730.f34dfd60.chunk.js",
+    "static/js/223.1904aa6e.chunk.js": "/bizAuto/static/js/223.1904aa6e.chunk.js",
+    "static/js/681.52a1f445.chunk.js": "/bizAuto/static/js/681.52a1f445.chunk.js",
+    "static/css/930.120bf4cd.chunk.css": "/bizAuto/static/css/930.120bf4cd.chunk.css",
+    "static/js/930.70125037.chunk.js": "/bizAuto/static/js/930.70125037.chunk.js",
+    "static/js/542.0ef07434.chunk.js": "/bizAuto/static/js/542.0ef07434.chunk.js",
+    "static/media/Home.png": "/bizAuto/static/media/Home.8fee1c2d823b890bc09d.png",
+    "static/media/Montserrat-SemiBold.otf": "/bizAuto/static/media/Montserrat-SemiBold.b4f6721ba1a251742ea6.otf",
+    "static/media/Montserrat-Regular.otf": "/bizAuto/static/media/Montserrat-Regular.65bc44fbf8204991497c.otf",
+    "static/media/logo.png": "/bizAuto/static/media/logo.7f8d5ef043e8af8c29a5.png",
+    "index.html": "/bizAuto/index.html",
+    "main.a9955258.css.map": "/bizAuto/static/css/main.a9955258.css.map",
+    "main.6bdf338e.js.map": "/bizAuto/static/js/main.6bdf338e.js.map",
+    "166.b979f8b9.chunk.js.map": "/bizAuto/static/js/166.b979f8b9.chunk.js.map",
+    "730.f34dfd60.chunk.js.map": "/bizAuto/static/js/730.f34dfd60.chunk.js.map",
+    "223.1904aa6e.chunk.js.map": "/bizAuto/static/js/223.1904aa6e.chunk.js.map",
+    "681.52a1f445.chunk.js.map": "/bizAuto/static/js/681.52a1f445.chunk.js.map",
+    "930.120bf4cd.chunk.css.map": "/bizAuto/static/css/930.120bf4cd.chunk.css.map",
+    "930.70125037.chunk.js.map": "/bizAuto/static/js/930.70125037.chunk.js.map",
+    "542.0ef07434.chunk.js.map": "/bizAuto/static/js/542.0ef07434.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9955258.css",
+    "static/js/main.6bdf338e.js"
+  ]
+}
